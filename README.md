@@ -1,1 +1,2 @@
 # Learning-based-optimal-beamforming-for-IRS-aided-system
+Research project on optimizing beamforming strategies in IRS-aided wireless networks using machine learning. Involves designing neural network-based algorithms for real-time adjustment of beamforming parameters based on environmental conditions. Tools and technologies used include MATLAB, Python, TensorFlow, Keras, NumPy, and deep learning models like ANN, CNN, and RNN, with a strong focus on wireless transmission concepts.
